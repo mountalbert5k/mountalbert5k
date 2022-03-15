@@ -39,9 +39,18 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-          © {new Date().getFullYear()}, Built with
+          © {new Date().getFullYear()}, Mount Albert Race Day 5K
           {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+          <div style={{
+        
+        display: "flex",
+        
+        justifyContent: "space-between",
+        maxWidth: 300,
+        
+      }}><a href="https://raceroster.com/events/2022/57876/2022-mount-albert-sports-day-5km-runwalk/participants">Register Here</a>
+      <a href="https://www.facebook.com/Mountalbert5km/">Facebook Page</a></div>
+          
         </footer>
       </div>
     </>
