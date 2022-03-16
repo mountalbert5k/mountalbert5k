@@ -20,7 +20,7 @@ const Header = ({ siteTitle }) => (
         maxWidth: 960,
         padding: `0rem 1.0875rem`,
       }}>
-      <h4>Have questions? <FaEnvelope /> <a href="mailto:info@mountalbertsportsday5l.ca">info@mountalbertraceday5k.ca</a></h4>
+      <h4>Have questions? <FaEnvelope /> <a href="mailto:info@mountalbertsportsday5k.ca">info@mountalbertsportsday5k.ca</a></h4>
       <h4><a href="https://www.facebook.com/Mountalbert5km/"><FaFacebookSquare /></a></h4>
     </div>
     <div
